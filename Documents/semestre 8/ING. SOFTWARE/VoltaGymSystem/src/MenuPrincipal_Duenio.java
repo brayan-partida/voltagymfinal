@@ -34,6 +34,8 @@ ResultSet Resultado;
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
+        PanelEscitorio_Duenio.setBackground(new java.awt.Color(0, 51, 255));
+
         javax.swing.GroupLayout PanelEscitorio_DuenioLayout = new javax.swing.GroupLayout(PanelEscitorio_Duenio);
         PanelEscitorio_Duenio.setLayout(PanelEscitorio_DuenioLayout);
         PanelEscitorio_DuenioLayout.setHorizontalGroup(
@@ -42,7 +44,7 @@ ResultSet Resultado;
         );
         PanelEscitorio_DuenioLayout.setVerticalGroup(
             PanelEscitorio_DuenioLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 499, Short.MAX_VALUE)
+            .addGap(0, 462, Short.MAX_VALUE)
         );
 
         jMenu1.setText("Clientes");
